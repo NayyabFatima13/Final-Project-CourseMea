@@ -29,13 +29,16 @@ Insight: The business experiences significant seasonality, with potential dips i
 Insight: Daily volatility requires flexible staffing and inventory management to respond to short-term demand shifts.
 
 **3. Product Category Performance:**
-Sales by Product Category (Donut Chart): Clothing is the leading category, accounting for 34.1% of total sales (156K). Electronics is a very close second, contributing 34.4% (157K). Beauty accounts for 31.5% (144K). (Note: There might be a slight discrepancy in the K values shown on the donut chart vs. the percentage, but the percentages clearly indicate the distribution).
+Sales by Product Category (Donut Chart): 
+- Clothing is the leading category, accounting for 34.1% of total sales (156K).
+- Electronics is a very close second, contributing 34.4% (157K).
+- Beauty accounts for 31.5% (144K). (Note: There might be a slight discrepancy in the K values shown on the donut chart vs. the percentage, but the percentages clearly indicate the distribution).
 Insight: Clothing and Electronics are the primary revenue drivers, making them critical focus areas for continued growth and inventory investment. Beauty is a significant third, but with a smaller share.
 
 **4. Sum of Quantity by Product Category (Bar Chart):**
--Clothing also leads in quantity sold with 894 units.
--Electronics is second with 849 units.
--Beauty is third with 771 units.
+- Clothing also leads in quantity sold with 894 units.
+- Electronics is second with 849 units.
+- Beauty is third with 771 units.
 Insight: The quantity sold aligns with sales revenue, confirming that Clothing and Electronics are not only high-value but also high-volume categories.
 
 **5. Interactive Filtering (Slicers):**
